@@ -6,10 +6,11 @@ Full Stack Developer
 
 I've been learning to code for 6 months. I have a passion for front and back end development. My desire to build things fuels my daily coding.
 
-*   🌍  I'm based in Oxford, MS
-*   ✉️  You can contact me at [blane.wins@gmail.com](mailto:blane.wins@gmail.com)
-*   🧠  I'm learning how to build Java Spring and Angular Web Applications.
-*   ⚡  I enjoy game dev in my free time. One day, I'd like to build a game that resonates with people, even if just a few.
+*   🌍  I'm based in Oxford, MS
+*   ✉️  You can contact me at [blane.wins@gmail.com](mailto:blane.wins@gmail.com)
+*   🧠  I'm learning how to build Java Spring and Angular Web Applications.
+*   ⚡  I enjoy game dev in my free time. One day, I'd like to build a game that resonates with people, even if just a few.
+
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -28,17 +29,9 @@ I've been learning to code for 6 months. I have a passion for front and back end
                                 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+                    </p>
                     
+
 ### Socials
                   
-                  
-<p align="left">
-                          
-                      <a href="https://discord.com/users/Nuisance#7777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/blanewinstead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/blanewinstead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                      
-</p>
+<p align="left"> <a href="https://discord.com/users/Nuisance#7777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/blanewinstead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blanewinstead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
